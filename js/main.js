@@ -150,7 +150,7 @@ function showChart(key, asc) {
             if (rank == 1000) {
                 rank = "-";
             }
-            return td(rank, "smWidth") + td(d.name, "nameWidth") + td(d.company, "companyWidth") + td(letter, "smWidth") + td(letter2, "smWidth") + td(displayRankChange(d), "rankWidth");
+            return td(rank, "smWidth") + td(d.name, "nameWidth") + td(d.Class, "ClassWidth") + td(letter, "smWidth") + td(letter2, "smWidth") + td(displayRankChange(d), "rankWidth");
         })
         .on("mouseover", function(d) {
             selectLine(d, "#line" + d.latestRank);
