@@ -1,6 +1,6 @@
 Name,Company,Level Audition,Re-Evaluation,note,ep1,ep2,ep3,ep4,ep5,ep6,ep7,ep8
 Ryu Hana,Class 4,A,-,,1,1,20,-,-,-,-,-
-Kang Yerin,Class 1,X,-,,2,35
+Kang Yerin,Class 1,X,-,,2,35,-,-,-,-,-,-
 Xue Jiayi,Class 2,A,-,,3,2,1,-,-,-,-,-
 Kim Miyoung,Class 1,X,-,,4,16,23,-,-,-,-,-
 Park Boyoung,Class 1,A,-,,5,4,15,-,-,-,-,-
@@ -17,7 +17,7 @@ Yan Ruolan,Class 3,A,-,,15,5,11,-,-,-,-,-
 Park Eunbin,Class 4,A,-,,16,7,12,-,-,-,-,-
 Go Seyeon,Class 2,A,-,,17,23,27,-,-,-,-,-,-
 Park Chaeyeon,Class 3,A,-,,18,15,14,-,-,-,-,-
-Eoh Bora,Class 2,X,-,,19,40
+Eoh Bora,Class 2,X,-,,19,40,-,-,-,-,-,-
 Bu Hyesu,Class 4,A,-,,20,18,8,-,-,-,-,-
 An Taeran,Class 4,A,-,,21,20,2,-,-,-,-,-
 Kang Yujin,Class 4,A,-,,22,29,30,-,-,-,-,-
@@ -27,15 +27,15 @@ Okimoto Aya,CLass 1,A,-,,25,12,10,-,-,-,-,--
 Son Heejin,Class 1,A,-,,26,21,6,-,-,-,-,-
 Miyazaki Nana,Class 3,A,-,,27,22,26,-,-,-,-,-
 Lee Giury,Class 1,X,-,,28,13,9,-,-,-,-,-
-Kim Suhyun,Class 2,X,-,,29,39
+Kim Suhyun,Class 2,X,-,,29,39,-,-,-,-,-,-
 Cho Seunghee,Class 3,X,-,,30,24,19,-,-,-,-,-
 Han Jiwoo,Class 4,A,-,,31,27,28,-,-,-,-,-
-Lee Minseo,Class 1,X,-,,32,36
-An Juhye,Class 3,X,-,,33,38
+Lee Minseo,Class 1,X,-,,32,36,-,-,-,-,-,-
+An Juhye,Class 3,X,-,,33,38,-,-,-,-,-,-
 Lee Yoomi,Class 2,A,-,,34,30,31,-,-,-,-,-
 Yuk Aeri,Class 1,X,-,,35,14,18,-,-,-,-,-
 Kurokawa Kei,Class 3,X,-,,36,31,5,-,-,-,-,-
 Oba Kimi,Class 2,A,-,,37,32,32,-,-,-,-,-
 Yi Sarang,Class 2,A,-,,38,26,4,-,-,-,-,-
-Shen Nian,Class 2,X,-,,39,37
+Shen Nian,Class 2,X,-,,39,37,-,-,-,-,-,-
 Wei Ning,Class4,A,-,,40,25,3,-,-,-,-,-
